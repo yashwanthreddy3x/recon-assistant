@@ -24,36 +24,37 @@ pip install -r requirements.txt
 python recon_assistant.py
 ```
 
-🧰 Tools & Libraries Used
+## **🧰 Tools & Libraries Used**
 
-Tool/Library	          Purpose
-os	                 System operations
-subprocess	         Running external commands
-datetime	           Timestamps
-colorama	           Colored terminal output
-prompt_toolkit	     Better CLI user experience
-rich	               Styled and formatted output
-nmap	               Network scanning tool (external)
+| Tool/Library     | Purpose                         |
+|------------------|----------------------------------|
+| `os`             | System operations               |
+| `subprocess`     | Running external commands       |
+| `datetime`       | Timestamps                      |
+| `colorama`       | Colored terminal output         |
+| `prompt_toolkit` | Better CLI user experience      |
+| `rich`           | Styled and formatted output     |
+| `nmap`           | Network scanning tool (external)|
 
 
-📁 File Structure
+## **📁 File Structure**
 
 recon-assistant/
-│
+
 ├── recon_assistant.py    
 ├── README.md             
 ├── requirements.txt       
 └── .gitignore             
 
-🙋‍♂️ Author
+## **🙋‍♂️ Author**
 Yashwanth Reddy
 Ethical Hacking & Red Teaming Enthusiast
 🔗 GitHub Profile
 
-📄 License
+## **📄 License**
 This project is licensed under the MIT License. You’re free to use, modify, and share with attribution.
 
-💡 Future Ideas
+## **💡 Future Ideas**
 
 - WHOIS lookups
 
