@@ -14,14 +14,15 @@ Install dependencies:
 ```bash
 pip install -r requirements.txt
 [Nmap](https://nmap.org/) must be installed and added to system path
-
-### 📥 Clone & Run
+```
+## 📥 Clone & Run
 
 ```bash
 git clone https://github.com/yashwanthreddy3x/recon-assistant.git
 cd recon-assistant
 pip install -r requirements.txt
 python recon_assistant.py
+```
 
 🧰 Tools & Libraries Used
 
