@@ -4,3 +4,14 @@ recon_logs/
 .vscode/
 *.log
 *.tmp
+
+
+
+*.log
+*.dat
+*.tmp
+.DS_Store
+__pycache__/
+.VirtualBox/
+AppData/
+OneDrive/
